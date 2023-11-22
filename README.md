@@ -14,6 +14,10 @@ Data Preparation and Data Mining 2023
 
 Final Score = Score * %attendance
 
+# Chapter 1 - Introduction to Data Mining
 
+# Chapter 2 - Getting to Know Your Data
+## Slide >> 
+## Code >> 
 
 
