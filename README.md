@@ -17,7 +17,7 @@
 > - Data Set to use for this class >> [Click](https://drive.google.com/drive/folders/1XVikUBDEA_mrSnil8DE7i7uWCADmyeqj?usp=sharing)
 > - Sheet from Aj. Tohn >> [Click](https://drive.google.com/drive/u/0/folders/1N2rPW5cc8A_tj9f3FdCyPBujePaiBZzx)
 
-## Table of Contents 
+## Table of Contents :dart:		
 - [Scoring](#Scoring)
 - [Homework](#homework)
 - [Quiz](#quiz)
@@ -31,7 +31,7 @@
 - [Chapter 9 - Classification: Advanced Methods](#chapter-9---classification-advanced-methods)
 - [Chapter 10 - Cluster Analysis: Basic Concepts and Methods](#chapter-10---cluster-analysis-basic-concepts-and-methods)
 
-## Scoring
+## Scoring :computer:	
 
 | Activity                  | Score %    | Type         | Note      |
 |---------------------------|------------|--------------|-----------|
@@ -44,7 +44,7 @@
 | Total | ![](https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9900&successColor=006600)|Total Score|**Final Score** = Total Score * %Attendance
 
 
-## Homework
+## Homework :office:	
 ### HW 1 : หา frequent Item Set และ Association Rules
 >1. จัดกลุ่มตาม Transaction (Invoice_No)
 >* ของช่วงเวลา Chritmas & New Year ทั่วโลก (1 Dec - 31 Dec)
@@ -80,7 +80,7 @@
 - [Homework 5](https://github.com/Ratchanontt/BSC_DPDM23/tree/main/Home_Work/HW5)
 
 
-## Quiz
+## Quiz :hourglass_flowing_sand:	
 ### Quiz 1-2-3
 - [Quiz 1 2 3](https://github.com/Ratchanontt/BSC_DPDM23/blob/main/Data_Preprocessing.ipynb): เลือกหาที่ Table of contents
 1. Q1 : Ignore Missing
@@ -108,13 +108,13 @@
 - [Quiz 9](https://github.com/Ratchanontt/BSC_DPDM23/blob/main/Quiz/Quiz9_Classifier_Evaluation%20Metrics_Confusion_Matrix.pdf)
 
 
-## Midterm Test - Data Preprocessing
+## Midterm Test - Data Preprocessing :medal_military:	
 
 - Code >> [เตรียมข้อมูลอุตุนิยมวิทยา](https://github.com/Ratchanontt/BSC_DPDM23/blob/main/midterm_bscdpdm23.ipynb "midterm_bscdpdm23.ipynb")
 - Use data set >> [อุตุ](https://drive.google.com/drive/folders/1k6tJcTTv2bKmFz6A5oOWi-sAeTVIQpG4)
 
 
-## Project: Data Preparation & Data Mining
+## Project: Data Preparation & Data Mining :trophy:	
 - Code >> [Click](https://github.com/Ratchanontt/BSC_DPDM23/blob/main/Project.ipynb)
 - Presentation >>> [Click](https://github.com/Ratchanontt/BSC_DPDM23/blob/main/Project%20Element/%E0%B8%81%E0%B8%A5%E0%B8%B8%E0%B9%88%E0%B8%A1%20NMN%20%26%20%E0%B8%AB%E0%B8%AD%E0%B8%A2%E0%B8%AB%E0%B8%A5%E0%B8%AD%E0%B8%94%E0%B8%94.pdf)
 
